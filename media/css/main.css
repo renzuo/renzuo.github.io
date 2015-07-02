@@ -279,7 +279,7 @@ table th.right, table td.right {
 #searchform #s {
     background: url("/media/img/search.png") no-repeat 5px 6px;
     box-shadow: inset 0 1px 1px rgba(0,0,0,0.1);
-    border: 1px solid #dfd;
+    border: 1px solid #f2f8ea;
     border-radius: 2px;
     -moz-border-radius: 2px;
     width: 90px;
@@ -437,7 +437,7 @@ table th.right, table td.right {
   .site-nav .menu-icon { display: block; width: 36px; height: 21px; line-height: 0; margin-top: 10px; margin-bottom: 5px; text-align: center;
                          }
   .site-nav .menu-icon > svg { width: 18px; height: 15px; }
-  .site-nav .menu-icon > svg path { fill: #ffff00; }
+  .site-nav .menu-icon > svg path { fill: #2f3030; }
   .site-nav .trigger { clear: both; display: none; }
   .site-nav:hover .trigger { display: block; padding-bottom: 5px; }
   .site-nav li{ display: block; padding: 5px 10px; }
